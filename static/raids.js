@@ -53,7 +53,7 @@ function CreateHorizontalCompactRaidRow( data ) {
 	newLine.classList.add( "copy-div", "smaller" );
 	newLine.dataset.clipboard = data.id;
 	var imageTD = document.createElement( "td" );
-	imageTD.innerHTML = '<div class="ui items"><div class="item"><div class="ui tiny image"><img src="' + raidConfig.image + '"></div><div class="content"><div class="header">' + raidConfig.english + '</div><div class="meta"><span>' + raidConfig.japanese + '</span></div></div></div>';
+	imageTD.innerHTML = '<div class="ui items"><div class="item"><div class="ui tiny image"><img src="' + raidConfig.image + '"></div><div class="content"><div class="header">' + raidConfig.korean + '</div><div class="meta"><span>' + raidConfig.japanese + '</span></div></div></div>';
 	var idTD = document.createElement( "td" );
 	idTD.id = data.id + '-label';
 	idTD.classList.add( "center", "aligned" );
@@ -98,7 +98,7 @@ function CreateHorizontalNormalRaidRow( data ) {
 	newLine.classList.add( "copy-div" );
 	newLine.dataset.clipboard = data.id;
 	var imageTD = document.createElement( "td" );
-	imageTD.innerHTML = '<div class="ui items"><div class="item"><div class="ui image"><img src="' + raidConfig.image + '"></div><div class="content"><div class="header">' + raidConfig.english + '</div><div class="meta"><span>' + raidConfig.japanese + '</span></div></div></div>';
+	imageTD.innerHTML = '<div class="ui items"><div class="item"><div class="ui image"><img src="' + raidConfig.image + '"></div><div class="content"><div class="header">' + raidConfig.korean + '</div><div class="meta"><span>' + raidConfig.japanese + '</span></div></div></div>';
 	var idTD = document.createElement( "td" );
 	idTD.id = data.id + '-label';
 	idTD.classList.add( "center", "aligned" );
