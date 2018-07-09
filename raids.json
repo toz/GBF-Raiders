@@ -407,7 +407,7 @@
 {
 	"english": "Lvl 100 Tiamat Omega Ayr",
 	"japanese": "Lv100 ティアマト・マグナ＝エア",
-	"korean": "Lv100 티아마트 마그나 에어"
+	"korean": "Lv100 티아마트 마그나 에어",
 	"room": "lvl100tiamatimpossible",
 	"image": "/assets/raids/BattleRaid_Tiamat_Impossible.jpg",
 	"category": "Impossible Omega",
@@ -497,7 +497,7 @@
 {
 	"english": "Lvl 30 Adversa",
 	"japanese": "Lv30 アドウェルサ",
-	"korean": "Lv30 아드웨르사"
+	"korean": "Lv30 아드웨르사",
 	"room": "lvl30adversa",
 	"image": "/assets/raids/BattleRaid_Luminiera_Normal.jpg",
 	"category": "Low Level",
@@ -623,7 +623,7 @@
 {
 	"english": "Lvl 60 Zhuque",
 	"japanese": "Lv60 朱雀",
-	"korean": "Lv60 주작"
+	"korean": "Lv60 주작",
 	"room": "lvl60zhuque",
 	"image": "/assets/raids/Zhuque_Extreme.jpg",
 	"category": "Rise of the Beasts",
@@ -794,7 +794,7 @@
 {
 	"english": "Lvl 50 Allosaurus",
 	"japanese": "Lv50 アロザロウス",
-	"korean": "Lv50 아로자로우스"
+	"korean": "Lv50 아로자로우스",
 	"room": "lvl50allosaurus",
 	"image": "/assets/raids/BattleRaid_Bizarre_Beast_Very_Hard.png",
 	"category": "Unite and Fight",
@@ -839,7 +839,7 @@
 {
 	"english": "Lvl 100 Oktopode",
 	"japanese": "Lv100 オクトポーデ",
-	"korean": "Lv100 "korean": ",
+	"korean": "Lv100 오쿠토포데",
 	"room": "lvl100oktopode",
 	"image": "/assets/raids/BattleRaid_Oktopode_Nightmare100.png",
 	"category": "Unite and Fight",
